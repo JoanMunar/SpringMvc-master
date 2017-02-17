@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcee016a-0437-477b-af08-adb25ed7d187" name="ddbb" url="http://localhost:8080">
+        <fileTransfer port="0" mountedRoot="C:\Users\aleat\Desktop\Deures\2n\EntornS\SpringMvc-master" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
